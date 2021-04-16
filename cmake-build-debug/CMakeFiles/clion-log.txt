@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/cmake-build-debug

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/List.cpp
+List.h
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/List.h
+
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/List.h
+iostream
+-
+List_Node_meeting.h
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/List_Node_meeting.h
+
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/List_Node_meeting.h
+iostream
+-
+
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/calendar.cpp
+calendar.h
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/calendar.h
+
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/calendar.h
+iostream
+-
+month.h
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/month.h
+
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/day.h
+List.h
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/List.h
+
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/month.h
+day.h
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/day.h
+

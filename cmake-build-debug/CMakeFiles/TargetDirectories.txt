@@ -1,0 +1,3 @@
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tal/C_Code/cpp/targil4_lo_leagasha_Q1/cmake-build-debug/CMakeFiles/targil4_lo_leagasha_Q1.dir

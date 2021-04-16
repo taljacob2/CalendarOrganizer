@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/targil4_lo_leagasha_Q1.dir/calendar.cpp.o CMakeFiles/targil4_lo_leagasha_Q1.dir/main.cpp.o CMakeFiles/targil4_lo_leagasha_Q1.dir/month.cpp.o CMakeFiles/targil4_lo_leagasha_Q1.dir/List_Node_meeting.cpp.o CMakeFiles/targil4_lo_leagasha_Q1.dir/List.cpp.o CMakeFiles/targil4_lo_leagasha_Q1.dir/day.cpp.o  -o targil4_lo_leagasha_Q1 
